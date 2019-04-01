@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=APArrayList
+comment0.text=\n\ Dynamic\ array\ implementation\ --\ works\ like\ ArrayList.\n
+comment1.params=
+comment1.target=APArrayList()
+comment10.params=
+comment10.target=void\ resize()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=i
+comment3.target=java.lang.Object\ get(int)
+comment4.params=i\ x
+comment4.target=java.lang.Object\ set(int,\ java.lang.Object)
+comment5.params=i
+comment5.target=java.lang.Object\ remove(int)
+comment6.params=x
+comment6.target=void\ add(java.lang.Object)
+comment7.params=i\ x
+comment7.target=void\ add(int,\ java.lang.Object)
+comment8.params=other
+comment8.target=void\ concatenate(APList)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

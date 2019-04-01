@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=APLinkedList
+comment0.text=\n\ Implements\ a\ Linked\ List\n
+comment1.params=
+comment1.target=APLinkedList()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=i
+comment3.target=java.lang.Object\ get(int)
+comment4.params=i\ x
+comment4.target=java.lang.Object\ set(int,\ java.lang.Object)
+comment5.params=i
+comment5.target=java.lang.Object\ remove(int)
+comment6.params=x
+comment6.target=void\ add(java.lang.Object)
+comment7.params=i\ x
+comment7.target=void\ add(int,\ java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=other
+comment9.target=void\ concatenate(APList)
+numComments=10
